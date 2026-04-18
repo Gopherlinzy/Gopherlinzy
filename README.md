@@ -45,49 +45,8 @@
 <!-- wakatime 统计 -->
 ### 📊 WakaTime
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                49 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-🌆 Daytime                140 commits         ████████████░░░░░░░░░░░░░   48.44 % 
-🌃 Evening                99 commits          █████████░░░░░░░░░░░░░░░░   34.26 % 
-🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Tuesday                  43 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Wednesday                77 commits          ███████░░░░░░░░░░░░░░░░░░   26.64 % 
-Thursday                 44 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Friday                   37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Saturday                 35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Sunday                   17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Go                       9 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   36.26 % 
-Markdown                 5 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-JSON                     3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Other                    2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Bash                     2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-
-🔥 Editors: 
-GoLand                   26 hrs 7 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  14 hrs 35 mins      ██████████████░░░░░░░░░░░   55.84 % 
-Mac                      11 hrs 32 mins      ███████████░░░░░░░░░░░░░░   44.16 % 
-```
-
-
- Last Updated on 17/04/2026 02:23:14 UTC
+ Last Updated on 18/04/2026 02:06:12 UTC
 <!--END_SECTION:waka-->
 
 
