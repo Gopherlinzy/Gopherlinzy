@@ -45,8 +45,50 @@
 <!-- wakatime 统计 -->
 ### 📊 WakaTime
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
 
- Last Updated on 15/05/2026 02:51:47 UTC
+```text
+🌞 Morning                49 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+🌆 Daytime                140 commits         ████████████░░░░░░░░░░░░░   48.44 % 
+🌃 Evening                99 commits          █████████░░░░░░░░░░░░░░░░   34.26 % 
+🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Tuesday                  43 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Wednesday                77 commits          ███████░░░░░░░░░░░░░░░░░░   26.64 % 
+Thursday                 44 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Friday                   37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Saturday                 35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+Sunday                   17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 10 hrs 11 mins      ███████████░░░░░░░░░░░░░░   44.42 % 
+Go                       9 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   40.59 % 
+JSON                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Text                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Python                   22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+
+🔥 Editors: 
+Unknown Editor           12 hrs 16 mins      █████████████░░░░░░░░░░░░   53.51 % 
+GoLand                   10 hrs 40 mins      ████████████░░░░░░░░░░░░░   46.49 % 
+
+💻 Operating System: 
+Windows                  14 hrs 4 mins       ███████████████░░░░░░░░░░   61.33 % 
+Mac                      8 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   38.67 % 
+```
+
+
+ Last Updated on 16/05/2026 02:40:28 UTC
 <!--END_SECTION:waka-->
 
 
